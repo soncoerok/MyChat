@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="chat_red">#ffc00000</color>
+    <color name="chat_secondary">#ffe01610</color>
+    <color name="chat_font_white">#fff8fff7</color>
+    <color name="chat_font_black">#ff202020</color>
+    <color name="chat_text_bubble_others">#ffD3D3D3</color>
+    <color name="chat_text_bubble_me">#ff3a9320</color>
+</resources>

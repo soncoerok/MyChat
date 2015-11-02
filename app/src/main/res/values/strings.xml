@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General data -->
+    <string name="app_name">MyChat</string>
+    <string name="menu_action_quit">Quit</string>
+    <string name="app_task_null">Task is null</string>
+    <string name="app_task_running">Task is RUNNING or PENDING</string>
+    <string name="app_task_finished">Task has FINISH</string>
+    <string name="app_dialog_quit_title">Are you sure ?</string>
+    <string name="app_dialog_quit_quitBtn">Quit</string>
+    <string name="app_dialog_quit_cancelBtn">Cancel</string>
+
+    <!-- Login screen data -->
+    <string name="login_activity_name">Login</string>
+    <string name="login_activity_btn_connect">Connect</string>
+    <string name="login_activity_btn_cancel">Cancel</string>
+    <string name="login_activity_text_error">At least one field is empty</string>
+    <string name="login_activity_toast_login_error">Connect error</string>
+    <string name="login_activity_toast_register_success">Register successful</string>
+    <string name="login_activity_dialog_register_title">Register</string>
+    <string name="login_activity_dialog_register_loginHint">Choose your login</string>
+    <string name="login_activity_dialog_register_passHint">Choose your password</string>
+    <string name="login_activity_dialog_register_message">To register, please fill the following element :</string>
+    <string name="login_activity_dialog_register_positiveBtn">Register</string>
+    <string name="login_activity_dialog_register_negativeBtn">Cancel</string>
+    <string name="login_activity_dialog_register_error">Credential error</string>
+
+    <!-- Chat screen data -->
+    <string name="chat_activity_name">Chat</string>
+    <string name="chat_activity_toast_welcome">Welcome </string>
+    <string name="chat_activity_hint_message">Type your message</string>
+    <string name="chat_activity_toast_messageUpdated">Messages updated</string>
+    <string name="chat_activity_toast_error_messageUpdated">Update error</string>
+    <string name="chat_activity_toast_messageSend">Message send</string>
+    <string name="chat_activity_toast_error_messageSend">Sending error</string>
+
+    <!-- Draw screen data -->
+    <string name="draw_activity_name">Draw</string>
+    <string name="title_activity_draw">DrawActivity</string>
+
+</resources>

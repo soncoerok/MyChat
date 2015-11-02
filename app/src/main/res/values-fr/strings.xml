@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General data -->
+    <string name="app_name">MyChat</string>
+    <string name="menu_action_quit">Quitter</string>
+    <string name="app_task_null">Tache inexistante</string>
+    <string name="app_task_running">Tache en cours</string>
+    <string name="app_task_finished">Tache terminée</string>
+    <string name="app_dialog_quit_title">Voullez-vous vraiment quitter ?</string>
+    <string name="app_dialog_quit_quitBtn">Quitter</string>
+    <string name="app_dialog_quit_cancelBtn">Annuler</string>
+
+    <!-- Login screen data -->
+    <string name="login_activity_name">Connexion</string>
+    <string name="login_activity_btn_connect">Connexion</string>
+    <string name="login_activity_btn_cancel">Annuler</string>
+    <string name="login_activity_text_error">Un des champs est vide</string>
+    <string name="login_activity_toast_login_error">Connexion impossible</string>
+    <string name="login_activity_toast_register_success">Enregistrement réussi</string>
+    <string name="login_activity_dialog_register_title">Inscription</string>
+    <string name="login_activity_dialog_register_loginHint">Choisissez un login</string>
+    <string name="login_activity_dialog_register_passHint">Choisissez un mot de passe</string>
+    <string name="login_activity_dialog_register_message">Pour vous inscrire, renseigner les éléments suivants :</string>
+    <string name="login_activity_dialog_register_positiveBtn">Inscription</string>
+    <string name="login_activity_dialog_register_negativeBtn">Annuler</string>
+    <string name="login_activity_dialog_register_error">Erreur de connexion</string>
+    <!-- Chat screen data -->
+    <string name="chat_activity_name">Chat</string>
+    <string name="chat_activity_toast_welcome">Bienvenue </string>
+    <string name="chat_activity_hint_message">Tapez votre message</string>
+    <string name="chat_activity_toast_messageUpdated">Messages à jour</string>
+    <string name="chat_activity_toast_error_messageUpdated">Erreur récupération message</string>
+    <string name="chat_activity_toast_messageSend">Message envoyé</string>
+    <string name="chat_activity_toast_error_messageSend">Erreur lors de l\'envoi</string>
+
+    <!-- Draw screen data -->
+    <string name="draw_activity_name">Dessin</string>
+    <string name="title_activity_draw">DrawActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
